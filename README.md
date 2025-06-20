@@ -1,2 +1,3 @@
 # Shell
-Schell Scripts for review and hands-on practise 
+Shell Scripts for review and hands-on practise 
+new to shell
