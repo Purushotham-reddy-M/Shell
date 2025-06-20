@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for hands-on practise 
+Schell Scripts for review and hands-on practise 
